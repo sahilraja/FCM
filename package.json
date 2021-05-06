@@ -1,0 +1,22 @@
+{
+  "name": "fcm",
+  "version": "1.0.0",
+  "description": "Simple FCM Service for push notifications using firebaseAdmin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilraja/FCM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilraja/FCM/issues"
+  },
+  "homepage": "https://github.com/sahilraja/FCM#readme",
+  "dependencies": {
+    "firebase-admin": "^9.7.0"
+  }
+}
